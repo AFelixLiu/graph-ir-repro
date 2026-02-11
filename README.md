@@ -1,6 +1,6 @@
 ### 🌟 简介
 ---
-本项目是对论文 ***"Infrared spectra prediction using attention-based graph neural networks"*** ([DOI: 10.1039/D3DD00254C](https://doi.org/10.1039/D3DD00254C)) 的代码复现。
+本项目是对论文 [DOI: 10.1039/D3DD00254C](https://doi.org/10.1039/D3DD00254C) 的代码复现。
 
 代码实现参考自 GitHub 开源仓库：[nj-saquer/IR-Spectra-Prediction-Graph-Models](https://github.com/nj-saquer/IR-Spectra-Prediction-Graph-Models)。
 
