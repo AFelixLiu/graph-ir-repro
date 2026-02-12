@@ -23,4 +23,4 @@
 
 ### 📜 开源协议
 ---
-本项目遵循 **MIT License**。
+本项目遵循 **[MIT License](https://mit-license.org/)**。
